@@ -3,7 +3,7 @@
   "wake_word": "Glados",
   "author": "Alexander Leporiday",
   "website": "https://github.com/AlexanderLeporiday",
-  "model": "glados.tflite",
+  "model": "https://github.com/AlexanderLeporiday/micro-wake-word-models/blob/38448c12ebb3959206f9dd223ecb2c46dc69af82/models/v2/glados.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
