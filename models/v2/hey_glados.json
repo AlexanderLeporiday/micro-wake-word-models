@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Glados",
+  "wake_word": "Hey Glados",
   "author": "Alexander Leporiday",
   "website": "https://github.com/AlexanderLeporiday",
   "model": "hey_glados.tflite",
